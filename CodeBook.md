@@ -1,12 +1,12 @@
-## Code Book
+# Code Book
 
 This Code Book is explained for the tidy_data.txt file. The file is summary of the data set from UCI Machine Learning Repository.
 
-# The factors to identify data
+## The factors to identify data
 - Subject	Person ID who attended the experiments
 - Activity	Activity name (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
-# Measurements
+## Measurements
 - tBodyAcceleration-XYZ
 - tGravityAcceleration-XYZ
 - tBodyAccelerationJerk-XYZ
@@ -27,7 +27,7 @@ This Code Book is explained for the tidy_data.txt file. The file is summary of t
 
 “-XYZ” is used to denote 3-axial signals in the X, Y and Z directions.
 
-# The set of variables that were estimated from these signals are: 
+## The set of variables that were estimated from these signals are: 
 - mean	Mean value
 - std	Standard deviation
 
